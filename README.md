@@ -2,7 +2,7 @@
 
 ## Description
 
-This project contains a Makefile and is intended to be compiled according to the directions listed in the Makefile. After compiling, the program is meant to be run by the command:
+This project contains a Makefile and is intended to be compiled according to the directions listed in the [Makefile](/Makefile). After compiling, the program is meant to be run by the command:
 
 ./wuzzle scorefile wordfile
 
